@@ -4,7 +4,7 @@ import { Route, Switch } from 'react-router-dom';
 
 import useStyles from './styles';
 
-import { Actors, MovieInformation, Navbar, Profile, Movies } from './';
+import { Actors, MovieInformation, Navbar, Profile, Movies } from './index';
 
 
 const App = () =>  {
