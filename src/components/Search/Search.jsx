@@ -19,7 +19,6 @@ const Search = () => {
     }
   };
 
-  console.log('Search');
   return (
     <div className={classes.searchContainer}>
       <TextField 
