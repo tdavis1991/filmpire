@@ -28,10 +28,10 @@ export default makeStyles((theme) => ({
       width: drawerWidth,
     },
     linkButton: {
-      '&:hover' : {
+      '&:hover': {
         color: 'white !important',
         textDecoration: 'none',
-      }
-    }
-  }
+      },
+    },
+  },
 }));
