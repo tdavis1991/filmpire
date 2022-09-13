@@ -48,6 +48,7 @@ const MovieInformation = () => {
 
   return (
     <Grid container className={classes.containerSpaceAround}>
+      {console.log(recommendations)}
       <Grid item sm={12} lg={4}>
         <img 
           className={classes.poster} 
