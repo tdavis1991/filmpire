@@ -16,6 +16,6 @@ const RatedCards = ({ title, data }) => {
       </Box>
     </Box>
   )
-}
+};
 
-export default RatedCards
+export default RatedCards;
